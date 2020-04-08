@@ -6,7 +6,7 @@ public class BlackWall extends Tile{
 	
 
 	public BlackWall(int id) {
-		super(Assets.blackChao, id);
+		super(Assets.wall, id);
 	}
 	
 	@Override
